@@ -1,1 +1,1 @@
-# Decision-Tree
+Hi.. For this code, I used a data collection of mushroom features to train a model that predicts whether a mushroom is toxic. You can get the data set using the following link: https://archive.ics.uci.edu/ml/datasets/Mushroom.
